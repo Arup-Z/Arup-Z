@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arup-Z
-- 👀 I’m interested in the intersection finance and AI
+- 👀 I’m interested in the intersection of finance and AI
 - 🌱 I’m currently learning how to use LLMs in finance usecases
 - 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/arup-ghosh-85743922/
